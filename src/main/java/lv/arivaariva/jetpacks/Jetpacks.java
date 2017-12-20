@@ -35,7 +35,7 @@ import static lv.arivaariva.jetpacks.init.CustomItems.*;
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION, useMetadata = true)
 public class Jetpacks {
     public static Jetpacks instance;
-    static Comparator<ItemStack> tabSorter;
+    private static Comparator<ItemStack> tabSorter;
 
     @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
     public static CommonProxy proxy;
