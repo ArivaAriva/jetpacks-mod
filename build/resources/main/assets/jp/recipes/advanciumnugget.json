@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jp:iadvanciumingot"
+    }
+  ],
+  "result": {
+    "item": "jp:iadvanciumnugget",
+    "count": 9,
+    "data": 0
+  }
+}

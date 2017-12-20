@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jp",
+  "name": "§6Jetpacks",
+  "description": "§aAdds Jetpacks and more.",
+  "version": "1.0",
+  "mcversion": "1.1.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ArivaAriva"],
+  "credits": "§4ArivaAriva",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

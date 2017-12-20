@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FF ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "F": {
+      "item": "jp:iflyumingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "jp:tflyumhoe",
+    "data": 0
+  }
+}

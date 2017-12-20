@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jp:iflyumingot"
+    }
+  ],
+  "result": {
+    "item": "jp:iflyumnugget",
+    "count": 9,
+    "data": 0
+  }
+}

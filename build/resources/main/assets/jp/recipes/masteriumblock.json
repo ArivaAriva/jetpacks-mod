@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "MMM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "jp:imasteriumingot"
+    }
+  },
+  "result": {
+    "item": "jp:blockmasterium",
+    "data": 0
+  }
+}

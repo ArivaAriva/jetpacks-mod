@@ -1,0 +1,141 @@
+Symbol range map extraction starting
+Processing 36 files
+startProcessing "lv\arivaariva\jetpacks\JPTab.java" md5: c438252ab8d8ed7fecc24fc2c4e4aaec
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\JPTab.java"
+
+startProcessing "lv\arivaariva\jetpacks\Jetpacks.java" md5: 0a944eed1bbf8460ed81197de3d23294
+    Compile Error! Pb(390) The import cofh cannot be resolved
+    Compile Error! Pb(390) The import cofh cannot be resolved
+    Compile Error! Pb(390) The import cofh cannot be resolved
+endProcessing "lv\arivaariva\jetpacks\Jetpacks.java"
+
+startProcessing "lv\arivaariva\jetpacks\Reference.java" md5: a4e7f98f22a44ecc0a4c7b184558ee64
+endProcessing "lv\arivaariva\jetpacks\Reference.java"
+
+startProcessing "lv\arivaariva\jetpacks\blocks\BlockAdvancium.java" md5: 66cc1c29a494763d16480ecbf1694abc
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\blocks\BlockAdvancium.java"
+
+startProcessing "lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java" md5: 58acf004a7b0f960a6014784a737443a
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java"
+
+startProcessing "lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java" md5: e17d90b0444c7d1d5c64352bf5bb5e1a
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java"
+
+startProcessing "lv\arivaariva\jetpacks\blocks\BlockFlyum.java" md5: 8c15dc6b00d8fb28e057dddf3cff08e3
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\blocks\BlockFlyum.java"
+
+startProcessing "lv\arivaariva\jetpacks\blocks\BlockMasterium.java" md5: b70571063118aebf91108bff679ff5f1
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\blocks\BlockMasterium.java"
+
+startProcessing "lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java" md5: 73f6a45ec0f270251ad38e6ea2fbe0a3
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java"
+
+startProcessing "lv\arivaariva\jetpacks\init\CustomBlocks.java" md5: a7e1bd439bd492c3f6c274a187478808
+endProcessing "lv\arivaariva\jetpacks\init\CustomBlocks.java"
+
+startProcessing "lv\arivaariva\jetpacks\init\CustomItems.java" md5: cf56eb211c38df7852ad9d74acc7846f
+endProcessing "lv\arivaariva\jetpacks\init\CustomItems.java"
+
+startProcessing "lv\arivaariva\jetpacks\init\CustomRecipes.java" md5: 9ec3dc7396b9c63021a862b93205d4c5
+endProcessing "lv\arivaariva\jetpacks\init\CustomRecipes.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumAxe.java" md5: b1edf3eb91085a99c60ee193690bb273
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumAxe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumHoe.java" md5: dd8d80148b24442f423e2ed11636ec2f
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumHoe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumIngot.java" md5: ceedd23e8c35fd5d04314c2ff71f769b
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumIngot.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumNugget.java" md5: 0501712283c906e172f737ad2ca663e6
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumNugget.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java" md5: 9129b359ce1d145b7d838e9c5b5ea605
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumShovel.java" md5: 9dcaba3359dee094e0d7c3ad3af8973d
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumShovel.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumSword.java" md5: d7c758c31f54c45755a41e9ca8e68857
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumSword.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumAxe.java" md5: cd0e298e844b95474878086f134172f0
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\FlyumAxe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumHoe.java" md5: 9dfe9a83b5fab06dece41654cd47bb6a
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\FlyumHoe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumIngot.java" md5: 5b57682cc3fbd7aacdb278faddd9dc22
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\FlyumIngot.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumNugget.java" md5: 4c526b803a901040e2b3ae9a86831621
+endProcessing "lv\arivaariva\jetpacks\items\FlyumNugget.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumPickaxe.java" md5: c973b03ae6db3e4a3bb0820f6e76e14c
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\FlyumPickaxe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumShovel.java" md5: 89e42a21b2535ea41e97eb3cf8575040
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\FlyumShovel.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumSword.java" md5: ce6309f5b1da2342b7ae4bf9dd29b968
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\FlyumSword.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumAxe.java" md5: bc52ed7d5341487d2157d2355224d743
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumAxe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumHoe.java" md5: 3b13a04c80dfa54b82d83f028847fc48
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumHoe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumIngot.java" md5: 62aadcaa83d6e17b147bef4aa665dc16
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumIngot.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumNugget.java" md5: 75f166d5d689236a2ffdd9f6ab1d4a21
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumNugget.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumPickaxe.java" md5: f6a9f113c2fe897c26063180373e3ab5
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumPickaxe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumShovel.java" md5: 2c179896a6ef4c4112fe11f8a150a2c8
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumShovel.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumSword.java" md5: 58b2e0f0b2a264e3be00b71d64868d98
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumSword.java"
+
+startProcessing "lv\arivaariva\jetpacks\proxy\ClientProxy.java" md5: 7064b7ed387999999a57ab20309d3a08
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\proxy\ClientProxy.java"
+
+startProcessing "lv\arivaariva\jetpacks\proxy\CommonProxy.java" md5: 905bb55c796e19f710030fa432bb3084
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\proxy\CommonProxy.java"
+
+startProcessing "lv\arivaariva\jetpacks\proxy\ServerProxy.java" md5: e22a44720afbfae9b5e935a383e5b0f9
+Cache Hit!
+endProcessing "lv\arivaariva\jetpacks\proxy\ServerProxy.java"
+

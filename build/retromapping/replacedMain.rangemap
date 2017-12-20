@@ -1,0 +1,1599 @@
+Symbol range map extraction starting
+Processing 36 files
+startProcessing "lv\arivaariva\jetpacks\JPTab.java" md5: c438252ab8d8ed7fecc24fc2c4e4aaec
+Cache Hit!
+@|lv\arivaariva\jetpacks\JPTab.java|8|30|lv.arivaariva.jetpacks|package|lv.arivaariva.jetpacks|(file)
+Class Start: lv.arivaariva.jetpacks.JPTab
+   @|lv\arivaariva\jetpacks\JPTab.java|434|439|JPTab|class|lv.arivaariva.jetpacks.JPTab
+   @|lv\arivaariva\jetpacks\JPTab.java|448|460|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+   Method Start: JPTab()V
+      @|lv\arivaariva\jetpacks\JPTab.java|475|480|JPTab|method|lv.arivaariva.jetpacks.JPTab|JPTab|()V
+   Method End: JPTab()V
+   Method Start: getTabIconItem()Lnet/minecraft/item/ItemStack;
+      @|lv\arivaariva\jetpacks\JPTab.java|521|529|Override|class|java.lang.Override
+      @|lv\arivaariva\jetpacks\JPTab.java|541|550|ItemStack|class|net.minecraft.item.ItemStack
+      @|lv\arivaariva\jetpacks\JPTab.java|551|565|getTabIconItem|method|net.minecraft.creativetab.CreativeTabs|getTabIconItem|()Lnet/minecraft/item/ItemStack;
+      @|lv\arivaariva\jetpacks\JPTab.java|589|598|ItemStack|class|net.minecraft.item.ItemStack
+      @|lv\arivaariva\jetpacks\JPTab.java|599|610|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\JPTab.java|611|625|masteriumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumIngot
+   Method End: getTabIconItem()Lnet/minecraft/item/ItemStack;
+Class End  : lv.arivaariva.jetpacks.JPTab
+endProcessing "lv\arivaariva\jetpacks\JPTab.java"
+
+startProcessing "lv\arivaariva\jetpacks\Jetpacks.java" md5: 0a944eed1bbf8460ed81197de3d23294
+    Compile Error! Pb(390) The import cofh cannot be resolved
+    Compile Error! Pb(390) The import cofh cannot be resolved
+    Compile Error! Pb(390) The import cofh cannot be resolved
+@|lv\arivaariva\jetpacks\Jetpacks.java|8|30|lv.arivaariva.jetpacks|package|lv.arivaariva.jetpacks|(file)
+Class Start: lv.arivaariva.jetpacks.Jetpacks
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1353|1356|Mod|class|net.minecraftforge.fml.common.Mod
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1357|1362|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1365|1374|Reference|class|lv.arivaariva.jetpacks.Reference
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1375|1381|MOD_ID|field|lv.arivaariva.jetpacks.Reference|MOD_ID
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1383|1387|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1390|1399|Reference|class|lv.arivaariva.jetpacks.Reference
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1400|1404|NAME|field|lv.arivaariva.jetpacks.Reference|NAME
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1406|1413|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1416|1425|Reference|class|lv.arivaariva.jetpacks.Reference
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1426|1433|VERSION|field|lv.arivaariva.jetpacks.Reference|VERSION
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1435|1446|useMetadata|method|net.minecraftforge.fml.common.Mod|useMetadata|()Z
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1468|1476|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1497|1505|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1497|1505|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1506|1514|instance|field|lv.arivaariva.jetpacks.Jetpacks|instance|
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1538|1547|ItemStack|class|net.minecraft.item.ItemStack
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1527|1537|Comparator|class|java.util.Comparator
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1527|1537|Comparator|class|java.util.Comparator
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1538|1547|ItemStack|class|net.minecraft.item.ItemStack
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1549|1558|tabSorter|field|lv.arivaariva.jetpacks.Jetpacks|tabSorter|
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1681|1692|CommonProxy|class|lv.arivaariva.jetpacks.proxy.CommonProxy
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1566|1576|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1577|1587|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1590|1599|Reference|class|lv.arivaariva.jetpacks.Reference
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1600|1618|CLIENT_PROXY_CLASS|field|lv.arivaariva.jetpacks.Reference|CLIENT_PROXY_CLASS
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1620|1630|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1633|1642|Reference|class|lv.arivaariva.jetpacks.Reference
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1643|1661|SERVER_PROXY_CLASS|field|lv.arivaariva.jetpacks.Reference|SERVER_PROXY_CLASS
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1681|1692|CommonProxy|class|lv.arivaariva.jetpacks.proxy.CommonProxy
+   @|lv\arivaariva\jetpacks\Jetpacks.java|1693|1698|proxy|field|lv.arivaariva.jetpacks.Jetpacks|proxy|
+   Method Start: addRecipe(Ljava/lang/String;)V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|1742|1752|recipeName|param|lv.arivaariva.jetpacks.Jetpacks|addRecipe|(Ljava/lang/String;)V|recipeName|0
+      @|lv\arivaariva\jetpacks\Jetpacks.java|1725|1734|addRecipe|method|lv.arivaariva.jetpacks.Jetpacks|addRecipe|(Ljava/lang/String;)V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|1735|1741|String|class|java.lang.String
+      @|lv\arivaariva\jetpacks\Jetpacks.java|1768|1782|CraftingHelper|class|net.minecraftforge.common.crafting.CraftingHelper
+      @|lv\arivaariva\jetpacks\Jetpacks.java|1783|1791|register|method|net.minecraftforge.common.crafting.CraftingHelper|register|(Lnet/minecraft/util/ResourceLocation;Lnet/minecraftforge/common/crafting/IRecipeFactory;)V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|1796|1812|ResourceLocation|class|net.minecraft.util.ResourceLocation
+      @|lv\arivaariva\jetpacks\Jetpacks.java|1813|1822|Reference|class|lv.arivaariva.jetpacks.Reference
+      @|lv\arivaariva\jetpacks\Jetpacks.java|1823|1829|MOD_ID|field|lv.arivaariva.jetpacks.Reference|MOD_ID
+      @|lv\arivaariva\jetpacks\Jetpacks.java|1838|1848|recipeName|param|lv.arivaariva.jetpacks.Jetpacks|addRecipe|(Ljava/lang/String;)V|recipeName|0
+      @|lv\arivaariva\jetpacks\Jetpacks.java|1865|1879|IRecipeFactory|class|net.minecraftforge.common.crafting.IRecipeFactory
+      Anon Class Start: lv.arivaariva.jetpacks.Jetpacks$1
+         Method Start: parse(Lnet/minecraftforge/common/crafting/JsonContext;Lcom/google/gson/JsonObject;)Lnet/minecraft/item/crafting/IRecipe;
+            @|lv\arivaariva\jetpacks\Jetpacks.java|1951|1958|context|param|lv.arivaariva.jetpacks.Jetpacks$1|parse|(Lnet/minecraftforge/common/crafting/JsonContext;Lcom/google/gson/JsonObject;)Lnet/minecraft/item/crafting/IRecipe;|context|0
+            @|lv\arivaariva\jetpacks\Jetpacks.java|1971|1975|json|param|lv.arivaariva.jetpacks.Jetpacks$1|parse|(Lnet/minecraftforge/common/crafting/JsonContext;Lcom/google/gson/JsonObject;)Lnet/minecraft/item/crafting/IRecipe;|json|1
+            @|lv\arivaariva\jetpacks\Jetpacks.java|1897|1905|Override|class|java.lang.Override
+            @|lv\arivaariva\jetpacks\Jetpacks.java|1925|1932|IRecipe|class|net.minecraft.item.crafting.IRecipe
+            @|lv\arivaariva\jetpacks\Jetpacks.java|1933|1938|parse|method|net.minecraftforge.common.crafting.IRecipeFactory|parse|(Lnet/minecraftforge/common/crafting/JsonContext;Lcom/google/gson/JsonObject;)Lnet/minecraft/item/crafting/IRecipe;
+            @|lv\arivaariva\jetpacks\Jetpacks.java|1939|1950|JsonContext|class|net.minecraftforge.common.crafting.JsonContext
+            @|lv\arivaariva\jetpacks\Jetpacks.java|1960|1970|JsonObject|class|com.google.gson.JsonObject
+            @|lv\arivaariva\jetpacks\Jetpacks.java|2002|2016|CraftingHelper|class|net.minecraftforge.common.crafting.CraftingHelper
+            @|lv\arivaariva\jetpacks\Jetpacks.java|2017|2026|getRecipe|method|net.minecraftforge.common.crafting.CraftingHelper|getRecipe|(Lcom/google/gson/JsonObject;Lnet/minecraftforge/common/crafting/JsonContext;)Lnet/minecraft/item/crafting/IRecipe;
+            @|lv\arivaariva\jetpacks\Jetpacks.java|2027|2031|json|param|lv.arivaariva.jetpacks.Jetpacks$1|parse|(Lnet/minecraftforge/common/crafting/JsonContext;Lcom/google/gson/JsonObject;)Lnet/minecraft/item/crafting/IRecipe;|json|1
+            @|lv\arivaariva\jetpacks\Jetpacks.java|2033|2040|context|param|lv.arivaariva.jetpacks.Jetpacks$1|parse|(Lnet/minecraftforge/common/crafting/JsonContext;Lcom/google/gson/JsonObject;)Lnet/minecraft/item/crafting/IRecipe;|context|0
+         Method End: parse(Lnet/minecraftforge/common/crafting/JsonContext;Lcom/google/gson/JsonObject;)Lnet/minecraft/item/crafting/IRecipe;
+      Anon Class End: lv.arivaariva.jetpacks.Jetpacks$1
+   Method End: addRecipe(Ljava/lang/String;)V
+   @|lv\arivaariva\jetpacks\Jetpacks.java|2100|2112|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+   @|lv\arivaariva\jetpacks\Jetpacks.java|2100|2112|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+   @|lv\arivaariva\jetpacks\Jetpacks.java|2113|2125|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB|
+   @|lv\arivaariva\jetpacks\Jetpacks.java|2132|2137|JPTab|class|lv.arivaariva.jetpacks.JPTab
+   Anon Class Start: lv.arivaariva.jetpacks.Jetpacks$2
+      Method Start: displayAllRelevantItems(Lnet/minecraft/util/NonNullList;)V
+         @|lv\arivaariva\jetpacks\Jetpacks.java|2227|2232|items|param|lv.arivaariva.jetpacks.Jetpacks$2|displayAllRelevantItems|(Lnet/minecraft/util/NonNullList;)V|items|0
+         @|lv\arivaariva\jetpacks\Jetpacks.java|2151|2159|Override|class|java.lang.Override
+         @|lv\arivaariva\jetpacks\Jetpacks.java|2180|2203|displayAllRelevantItems|method|net.minecraft.creativetab.CreativeTabs|displayAllRelevantItems|(Lnet/minecraft/util/NonNullList;)V
+         @|lv\arivaariva\jetpacks\Jetpacks.java|2204|2215|NonNullList|class|net.minecraft.util.NonNullList
+         @|lv\arivaariva\jetpacks\Jetpacks.java|2216|2225|ItemStack|class|net.minecraft.item.ItemStack
+         @|lv\arivaariva\jetpacks\Jetpacks.java|2254|2277|displayAllRelevantItems|method|net.minecraft.creativetab.CreativeTabs|displayAllRelevantItems|(Lnet/minecraft/util/NonNullList;)V
+         @|lv\arivaariva\jetpacks\Jetpacks.java|2278|2283|items|param|lv.arivaariva.jetpacks.Jetpacks$2|displayAllRelevantItems|(Lnet/minecraft/util/NonNullList;)V|items|0
+         @|lv\arivaariva\jetpacks\Jetpacks.java|2298|2303|items|param|lv.arivaariva.jetpacks.Jetpacks$2|displayAllRelevantItems|(Lnet/minecraft/util/NonNullList;)V|items|0
+         @|lv\arivaariva\jetpacks\Jetpacks.java|2304|2308|sort|method|java.util.List|sort|(Ljava/util/Comparator;)V
+         @|lv\arivaariva\jetpacks\Jetpacks.java|2309|2318|tabSorter|field|lv.arivaariva.jetpacks.Jetpacks|tabSorter
+      Method End: displayAllRelevantItems(Lnet/minecraft/util/NonNullList;)V
+   Anon Class End: lv.arivaariva.jetpacks.Jetpacks$2
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2407|2408|e|param|lv.arivaariva.jetpacks.Jetpacks|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2344|2356|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2373|2380|preInit|method|lv.arivaariva.jetpacks.Jetpacks|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2381|2406|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2424|2430|System|class|java.lang.System
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2431|2434|out|field|java.lang.System|out
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2435|2442|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2464|2475|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2476|2480|init|method|lv.arivaariva.jetpacks.init.CustomItems|init|()V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2492|2503|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2504|2512|register|method|lv.arivaariva.jetpacks.init.CustomItems|register|()V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2525|2537|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2538|2542|init|method|lv.arivaariva.jetpacks.init.CustomBlocks|init|()V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2554|2566|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2567|2575|register|method|lv.arivaariva.jetpacks.init.CustomBlocks|register|()V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2587|2600|CustomRecipes|class|lv.arivaariva.jetpacks.init.CustomRecipes
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2601|2616|registerRecipes|method|lv.arivaariva.jetpacks.init.CustomRecipes|registerRecipes|()V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2628|2632|List|class|java.util.List
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2633|2656|net.minecraft.item.Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2666|2682|java.util.Arrays|class|java.util.Arrays
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2683|2689|asList|method|java.util.Arrays|asList|([Ljava/lang/Object;)Ljava/util/List;
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2694|2698|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2701|2712|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2713|2723|flyumSword|field|lv.arivaariva.jetpacks.init.CustomItems|flyumSword
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2724|2735|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2736|2748|flyumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumPickaxe
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2749|2760|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2761|2772|flyumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|flyumShovel
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2773|2784|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2785|2793|flyumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumAxe
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2794|2805|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2806|2814|flyumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumHoe
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2815|2826|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2827|2841|advanciumSword|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumSword
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2842|2853|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2854|2870|advanciumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumPickaxe
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2871|2882|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2883|2898|advanciumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumShovel
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2899|2910|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2911|2923|advanciumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumAxe
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2924|2935|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2936|2948|advanciumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumHoe
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2949|2960|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2961|2975|masteriumSword|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumSword
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2976|2987|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|2988|3004|masteriumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumPickaxe
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3005|3016|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3017|3032|masteriumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumShovel
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3033|3044|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3045|3057|masteriumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumAxe
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3058|3069|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3070|3082|masteriumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumHoe
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3083|3087|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3088|3104|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3105|3117|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3118|3128|flyumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|flyumBlock
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3130|3134|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3135|3151|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3152|3164|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3165|3179|advanciumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|advanciumBlock
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3181|3185|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3186|3202|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3203|3215|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3216|3230|masteriumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|masteriumBlock
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3232|3236|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3237|3253|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3254|3266|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3267|3275|flyumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|flyumOre
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3277|3281|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3282|3298|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3299|3311|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3312|3324|advanciumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|advanciumOre
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3326|3330|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3331|3347|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3348|3360|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3361|3373|masteriumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|masteriumOre
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3375|3386|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3387|3397|flyumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|flyumIngot
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3398|3409|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3410|3424|advanciumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumIngot
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3425|3436|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3437|3451|masteriumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumIngot
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3452|3463|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3464|3475|flyumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|flyumNugget
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3476|3487|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3488|3503|advanciumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumNugget
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3504|3515|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3516|3531|masteriumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumNugget
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3543|3552|tabSorter|field|lv.arivaariva.jetpacks.Jetpacks|tabSorter
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3555|3563|Ordering|class|com.google.common.collect.Ordering
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3564|3572|explicit|method|com.google.common.collect.Ordering|explicit|(Ljava/util/List;)Lcom/google/common/collect/Ordering;
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3580|3590|onResultOf|method|com.google.common.collect.Ordering|onResultOf|(Lcom/google/common/base/Function;)Lcom/google/common/collect/Ordering;
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3591|3600|ItemStack|class|net.minecraft.item.ItemStack
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3602|3609|getItem|method|net.minecraft.item.ItemStack|getItem|()Lnet/minecraft/item/Item;
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3838|3839|e|param|lv.arivaariva.jetpacks.Jetpacks|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3781|3793|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3810|3814|init|method|lv.arivaariva.jetpacks.Jetpacks|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3815|3837|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3855|3861|System|class|java.lang.System
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3862|3865|out|field|java.lang.System|out
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3866|3873|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3891|3896|proxy|field|lv.arivaariva.jetpacks.Jetpacks|proxy
+      @|lv\arivaariva\jetpacks\Jetpacks.java|3897|3901|init|method|lv.arivaariva.jetpacks.proxy.CommonProxy|init|()V
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|4256|4257|e|param|lv.arivaariva.jetpacks.Jetpacks|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+      @|lv\arivaariva\jetpacks\Jetpacks.java|4191|4203|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|lv\arivaariva\jetpacks\Jetpacks.java|4220|4228|postInit|method|lv.arivaariva.jetpacks.Jetpacks|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|lv\arivaariva\jetpacks\Jetpacks.java|4229|4255|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|lv\arivaariva\jetpacks\Jetpacks.java|4273|4279|System|class|java.lang.System
+      @|lv\arivaariva\jetpacks\Jetpacks.java|4280|4283|out|field|java.lang.System|out
+      @|lv\arivaariva\jetpacks\Jetpacks.java|4284|4291|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : lv.arivaariva.jetpacks.Jetpacks
+endProcessing "lv\arivaariva\jetpacks\Jetpacks.java"
+
+startProcessing "lv\arivaariva\jetpacks\Reference.java" md5: a4e7f98f22a44ecc0a4c7b184558ee64
+@|lv\arivaariva\jetpacks\Reference.java|8|30|lv.arivaariva.jetpacks|package|lv.arivaariva.jetpacks|(file)
+Class Start: lv.arivaariva.jetpacks.Reference
+   @|lv\arivaariva\jetpacks\Reference.java|46|55|Reference|class|lv.arivaariva.jetpacks.Reference
+   @|lv\arivaariva\jetpacks\Reference.java|79|85|String|class|java.lang.String
+   @|lv\arivaariva\jetpacks\Reference.java|79|85|String|class|java.lang.String
+   @|lv\arivaariva\jetpacks\Reference.java|86|92|MOD_ID|field|lv.arivaariva.jetpacks.Reference|MOD_ID|
+   @|lv\arivaariva\jetpacks\Reference.java|122|128|String|class|java.lang.String
+   @|lv\arivaariva\jetpacks\Reference.java|122|128|String|class|java.lang.String
+   @|lv\arivaariva\jetpacks\Reference.java|129|133|NAME|field|lv.arivaariva.jetpacks.Reference|NAME|
+   @|lv\arivaariva\jetpacks\Reference.java|169|175|String|class|java.lang.String
+   @|lv\arivaariva\jetpacks\Reference.java|169|175|String|class|java.lang.String
+   @|lv\arivaariva\jetpacks\Reference.java|176|183|VERSION|field|lv.arivaariva.jetpacks.Reference|VERSION|
+   @|lv\arivaariva\jetpacks\Reference.java|215|221|String|class|java.lang.String
+   @|lv\arivaariva\jetpacks\Reference.java|215|221|String|class|java.lang.String
+   @|lv\arivaariva\jetpacks\Reference.java|222|240|CLIENT_PROXY_CLASS|field|lv.arivaariva.jetpacks.Reference|CLIENT_PROXY_CLASS|
+   @|lv\arivaariva\jetpacks\Reference.java|308|314|String|class|java.lang.String
+   @|lv\arivaariva\jetpacks\Reference.java|308|314|String|class|java.lang.String
+   @|lv\arivaariva\jetpacks\Reference.java|315|333|SERVER_PROXY_CLASS|field|lv.arivaariva.jetpacks.Reference|SERVER_PROXY_CLASS|
+   Enum Start: lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\Reference.java|402|413|CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\Reference.java|418|428|flyumingot|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumingot
+      @|lv\arivaariva\jetpacks\Reference.java|461|475|advanciumingot|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumingot
+      @|lv\arivaariva\jetpacks\Reference.java|522|536|masteriumingot|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumingot
+      @|lv\arivaariva\jetpacks\Reference.java|577|588|flyumNugget|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumNugget
+      @|lv\arivaariva\jetpacks\Reference.java|622|637|advanciumNugget|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumNugget
+      @|lv\arivaariva\jetpacks\Reference.java|679|694|masteriumNugget|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumNugget
+      @|lv\arivaariva\jetpacks\Reference.java|736|744|flyumhoe|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumhoe
+      @|lv\arivaariva\jetpacks\Reference.java|772|784|flyumpickaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumpickaxe
+      @|lv\arivaariva\jetpacks\Reference.java|820|831|flyumshovel|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumshovel
+      @|lv\arivaariva\jetpacks\Reference.java|865|873|flyumaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumaxe
+      @|lv\arivaariva\jetpacks\Reference.java|901|911|flyumsword|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumsword
+      @|lv\arivaariva\jetpacks\Reference.java|943|955|advanciumhoe|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumhoe
+      @|lv\arivaariva\jetpacks\Reference.java|991|1007|advanciumpickaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumpickaxe
+      @|lv\arivaariva\jetpacks\Reference.java|1051|1066|advanciumshovel|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumshovel
+      @|lv\arivaariva\jetpacks\Reference.java|1108|1120|advanciumaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumaxe
+      @|lv\arivaariva\jetpacks\Reference.java|1156|1170|advanciumsword|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumsword
+      @|lv\arivaariva\jetpacks\Reference.java|1210|1222|masteriumhoe|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumhoe
+      @|lv\arivaariva\jetpacks\Reference.java|1258|1274|masteriumpickaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumpickaxe
+      @|lv\arivaariva\jetpacks\Reference.java|1318|1333|masteriumshovel|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumshovel
+      @|lv\arivaariva\jetpacks\Reference.java|1375|1387|masteriumaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumaxe
+      @|lv\arivaariva\jetpacks\Reference.java|1423|1437|masteriumsword|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumsword
+      @|lv\arivaariva\jetpacks\Reference.java|1488|1494|String|class|java.lang.String
+      @|lv\arivaariva\jetpacks\Reference.java|1488|1494|String|class|java.lang.String
+      @|lv\arivaariva\jetpacks\Reference.java|1495|1510|unlocalizedName|field|lv.arivaariva.jetpacks.Reference.CustomItems|unlocalizedName|
+      @|lv\arivaariva\jetpacks\Reference.java|1522|1528|String|class|java.lang.String
+      @|lv\arivaariva\jetpacks\Reference.java|1522|1528|String|class|java.lang.String
+      @|lv\arivaariva\jetpacks\Reference.java|1529|1541|registryName|field|lv.arivaariva.jetpacks.Reference.CustomItems|registryName|
+      Method Start: CustomItems(Ljava/lang/String;Ljava/lang/String;)V
+         @|lv\arivaariva\jetpacks\Reference.java|1567|1582|unlocalizedName|param|lv.arivaariva.jetpacks.Reference.CustomItems|CustomItems|(Ljava/lang/String;Ljava/lang/String;)V|unlocalizedName|0
+         @|lv\arivaariva\jetpacks\Reference.java|1591|1603|registryName|param|lv.arivaariva.jetpacks.Reference.CustomItems|CustomItems|(Ljava/lang/String;Ljava/lang/String;)V|registryName|1
+         @|lv\arivaariva\jetpacks\Reference.java|1548|1559|CustomItems|method|lv.arivaariva.jetpacks.Reference.CustomItems|CustomItems|(Ljava/lang/String;Ljava/lang/String;)V
+         @|lv\arivaariva\jetpacks\Reference.java|1560|1566|String|class|java.lang.String
+         @|lv\arivaariva\jetpacks\Reference.java|1584|1590|String|class|java.lang.String
+         @|lv\arivaariva\jetpacks\Reference.java|1617|1632|unlocalizedName|field|lv.arivaariva.jetpacks.Reference.CustomItems|unlocalizedName
+         @|lv\arivaariva\jetpacks\Reference.java|1635|1650|unlocalizedName|param|lv.arivaariva.jetpacks.Reference.CustomItems|CustomItems|(Ljava/lang/String;Ljava/lang/String;)V|unlocalizedName|0
+         @|lv\arivaariva\jetpacks\Reference.java|1660|1672|registryName|field|lv.arivaariva.jetpacks.Reference.CustomItems|registryName
+         @|lv\arivaariva\jetpacks\Reference.java|1675|1687|registryName|param|lv.arivaariva.jetpacks.Reference.CustomItems|CustomItems|(Ljava/lang/String;Ljava/lang/String;)V|registryName|1
+      Method End: CustomItems(Ljava/lang/String;Ljava/lang/String;)V
+      Method Start: getUnlocalizedName()Ljava/lang/String;
+         @|lv\arivaariva\jetpacks\Reference.java|1705|1711|String|class|java.lang.String
+         @|lv\arivaariva\jetpacks\Reference.java|1712|1730|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+         @|lv\arivaariva\jetpacks\Reference.java|1745|1760|unlocalizedName|field|lv.arivaariva.jetpacks.Reference.CustomItems|unlocalizedName
+      Method End: getUnlocalizedName()Ljava/lang/String;
+      Method Start: getRegistryName()Ljava/lang/String;
+         @|lv\arivaariva\jetpacks\Reference.java|1778|1784|String|class|java.lang.String
+         @|lv\arivaariva\jetpacks\Reference.java|1785|1800|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+         @|lv\arivaariva\jetpacks\Reference.java|1817|1829|registryName|field|lv.arivaariva.jetpacks.Reference.CustomItems|registryName
+      Method End: getRegistryName()Ljava/lang/String;
+   Enum End  : lv.arivaariva.jetpacks.Reference.CustomItems
+   Enum Start: lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\Reference.java|1860|1872|CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\Reference.java|1877|1891|jetpackcharger|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|jetpackcharger
+      @|lv\arivaariva\jetpacks\Reference.java|1936|1944|flyumore|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|flyumore
+      @|lv\arivaariva\jetpacks\Reference.java|1976|1988|advanciumore|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|advanciumore
+      @|lv\arivaariva\jetpacks\Reference.java|2028|2040|masteriumore|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|masteriumore
+      @|lv\arivaariva\jetpacks\Reference.java|2080|2090|flyumblock|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|flyumblock
+      @|lv\arivaariva\jetpacks\Reference.java|2121|2135|advanciumblock|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|advanciumblock
+      @|lv\arivaariva\jetpacks\Reference.java|2174|2188|masteriumblock|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|masteriumblock
+      @|lv\arivaariva\jetpacks\Reference.java|2238|2244|String|class|java.lang.String
+      @|lv\arivaariva\jetpacks\Reference.java|2238|2244|String|class|java.lang.String
+      @|lv\arivaariva\jetpacks\Reference.java|2245|2260|unlocalizedName|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|unlocalizedName|
+      @|lv\arivaariva\jetpacks\Reference.java|2272|2278|String|class|java.lang.String
+      @|lv\arivaariva\jetpacks\Reference.java|2272|2278|String|class|java.lang.String
+      @|lv\arivaariva\jetpacks\Reference.java|2279|2291|registryName|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|registryName|
+      Method Start: CustomBlocks(Ljava/lang/String;Ljava/lang/String;)V
+         @|lv\arivaariva\jetpacks\Reference.java|2318|2333|unlocalizedName|param|lv.arivaariva.jetpacks.Reference.CustomBlocks|CustomBlocks|(Ljava/lang/String;Ljava/lang/String;)V|unlocalizedName|0
+         @|lv\arivaariva\jetpacks\Reference.java|2342|2354|registryName|param|lv.arivaariva.jetpacks.Reference.CustomBlocks|CustomBlocks|(Ljava/lang/String;Ljava/lang/String;)V|registryName|1
+         @|lv\arivaariva\jetpacks\Reference.java|2298|2310|CustomBlocks|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|CustomBlocks|(Ljava/lang/String;Ljava/lang/String;)V
+         @|lv\arivaariva\jetpacks\Reference.java|2311|2317|String|class|java.lang.String
+         @|lv\arivaariva\jetpacks\Reference.java|2335|2341|String|class|java.lang.String
+         @|lv\arivaariva\jetpacks\Reference.java|2368|2383|unlocalizedName|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|unlocalizedName
+         @|lv\arivaariva\jetpacks\Reference.java|2386|2401|unlocalizedName|param|lv.arivaariva.jetpacks.Reference.CustomBlocks|CustomBlocks|(Ljava/lang/String;Ljava/lang/String;)V|unlocalizedName|0
+         @|lv\arivaariva\jetpacks\Reference.java|2411|2423|registryName|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|registryName
+         @|lv\arivaariva\jetpacks\Reference.java|2426|2438|registryName|param|lv.arivaariva.jetpacks.Reference.CustomBlocks|CustomBlocks|(Ljava/lang/String;Ljava/lang/String;)V|registryName|1
+      Method End: CustomBlocks(Ljava/lang/String;Ljava/lang/String;)V
+      Method Start: getUnlocalizedName()Ljava/lang/String;
+         @|lv\arivaariva\jetpacks\Reference.java|2456|2462|String|class|java.lang.String
+         @|lv\arivaariva\jetpacks\Reference.java|2463|2481|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getUnlocalizedName|()Ljava/lang/String;
+         @|lv\arivaariva\jetpacks\Reference.java|2496|2511|unlocalizedName|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|unlocalizedName
+      Method End: getUnlocalizedName()Ljava/lang/String;
+      Method Start: getRegistryName()Ljava/lang/String;
+         @|lv\arivaariva\jetpacks\Reference.java|2529|2535|String|class|java.lang.String
+         @|lv\arivaariva\jetpacks\Reference.java|2536|2551|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getRegistryName|()Ljava/lang/String;
+         @|lv\arivaariva\jetpacks\Reference.java|2568|2580|registryName|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|registryName
+      Method End: getRegistryName()Ljava/lang/String;
+   Enum End  : lv.arivaariva.jetpacks.Reference.CustomBlocks
+Class End  : lv.arivaariva.jetpacks.Reference
+endProcessing "lv\arivaariva\jetpacks\Reference.java"
+
+startProcessing "lv\arivaariva\jetpacks\blocks\BlockAdvancium.java" md5: 66cc1c29a494763d16480ecbf1694abc
+Cache Hit!
+@|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|8|37|lv.arivaariva.jetpacks.blocks|package|lv.arivaariva.jetpacks.blocks|(file)
+Class Start: lv.arivaariva.jetpacks.blocks.BlockAdvancium
+   @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|319|333|BlockAdvancium|class|lv.arivaariva.jetpacks.blocks.BlockAdvancium
+   @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|342|347|Block|class|net.minecraft.block.Block
+   Method Start: BlockAdvancium()V
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|362|376|BlockAdvancium|method|lv.arivaariva.jetpacks.blocks.BlockAdvancium|BlockAdvancium|()V
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|395|403|Material|class|net.minecraft.block.material.Material
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|404|408|ROCK|field|net.minecraft.block.material.Material|ROCK
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|419|437|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|438|460|Reference.CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|461|475|advanciumblock|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|advanciumblock
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|476|494|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|507|522|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|523|545|Reference.CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|546|560|advanciumblock|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|advanciumblock
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|561|576|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|589|603|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|604|612|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|613|625|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|636|647|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|663|678|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+   Method End: BlockAdvancium()V
+   Method Start: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|758|763|state|param|lv.arivaariva.jetpacks.blocks.BlockAdvancium|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|state|0
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|772|776|rand|param|lv.arivaariva.jetpacks.blocks.BlockAdvancium|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|rand|1
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|782|789|fortune|param|lv.arivaariva.jetpacks.blocks.BlockAdvancium|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|fortune|2
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|706|714|Override|class|java.lang.Override
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|726|730|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|731|745|getItemDropped|method|net.minecraft.block.Block|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|746|757|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|765|771|Random|class|java.util.Random
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|812|816|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvancium.java|817|833|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+   Method End: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+Class End  : lv.arivaariva.jetpacks.blocks.BlockAdvancium
+endProcessing "lv\arivaariva\jetpacks\blocks\BlockAdvancium.java"
+
+startProcessing "lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java" md5: 58acf004a7b0f960a6014784a737443a
+Cache Hit!
+@|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|8|37|lv.arivaariva.jetpacks.blocks|package|lv.arivaariva.jetpacks.blocks|(file)
+Class Start: lv.arivaariva.jetpacks.blocks.BlockAdvanciumOre
+   @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|400|417|BlockAdvanciumOre|class|lv.arivaariva.jetpacks.blocks.BlockAdvanciumOre
+   @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|426|451|net.minecraft.block.Block|class|net.minecraft.block.Block
+   Method Start: BlockAdvanciumOre()V
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|465|482|BlockAdvanciumOre|method|lv.arivaariva.jetpacks.blocks.BlockAdvanciumOre|BlockAdvanciumOre|()V
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|501|509|Material|class|net.minecraft.block.material.Material
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|510|514|ROCK|field|net.minecraft.block.material.Material|ROCK
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|525|543|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|544|566|Reference.CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|567|579|advanciumore|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|advanciumore
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|580|598|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|611|626|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|627|649|Reference.CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|650|662|advanciumore|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|advanciumore
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|663|678|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|691|705|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|706|714|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|715|727|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|738|749|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|765|780|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+   Method End: BlockAdvanciumOre()V
+   Method Start: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|860|865|state|param|lv.arivaariva.jetpacks.blocks.BlockAdvanciumOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|state|0
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|874|878|rand|param|lv.arivaariva.jetpacks.blocks.BlockAdvanciumOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|rand|1
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|884|891|fortune|param|lv.arivaariva.jetpacks.blocks.BlockAdvanciumOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|fortune|2
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|808|816|Override|class|java.lang.Override
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|828|832|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|833|847|getItemDropped|method|net.minecraft.block.Block|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|848|859|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|867|873|Random|class|java.util.Random
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|914|918|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java|919|935|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+   Method End: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+Class End  : lv.arivaariva.jetpacks.blocks.BlockAdvanciumOre
+endProcessing "lv\arivaariva\jetpacks\blocks\BlockAdvanciumOre.java"
+
+startProcessing "lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java" md5: e17d90b0444c7d1d5c64352bf5bb5e1a
+Cache Hit!
+@|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|8|37|lv.arivaariva.jetpacks.blocks|package|lv.arivaariva.jetpacks.blocks|(file)
+Class Start: lv.arivaariva.jetpacks.blocks.BlockFlyiumOre
+   @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|400|414|BlockFlyiumOre|class|lv.arivaariva.jetpacks.blocks.BlockFlyiumOre
+   @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|423|428|Block|class|net.minecraft.block.Block
+   Method Start: BlockFlyiumOre()V
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|443|457|BlockFlyiumOre|method|lv.arivaariva.jetpacks.blocks.BlockFlyiumOre|BlockFlyiumOre|()V
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|480|488|Material|class|net.minecraft.block.material.Material
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|489|493|ROCK|field|net.minecraft.block.material.Material|ROCK
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|504|522|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|523|545|Reference.CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|546|554|flyumore|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|flyumore
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|555|573|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|586|601|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|602|624|Reference.CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|625|633|flyumore|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|flyumore
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|634|649|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|662|676|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|677|685|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|686|698|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|709|720|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|736|751|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+   Method End: BlockFlyiumOre()V
+   Method Start: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|831|836|state|param|lv.arivaariva.jetpacks.blocks.BlockFlyiumOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|state|0
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|845|849|rand|param|lv.arivaariva.jetpacks.blocks.BlockFlyiumOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|rand|1
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|855|862|fortune|param|lv.arivaariva.jetpacks.blocks.BlockFlyiumOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|fortune|2
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|779|787|Override|class|java.lang.Override
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|799|803|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|804|818|getItemDropped|method|net.minecraft.block.Block|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|819|830|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|838|844|Random|class|java.util.Random
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|885|889|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java|890|906|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+   Method End: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+Class End  : lv.arivaariva.jetpacks.blocks.BlockFlyiumOre
+endProcessing "lv\arivaariva\jetpacks\blocks\BlockFlyiumOre.java"
+
+startProcessing "lv\arivaariva\jetpacks\blocks\BlockFlyum.java" md5: 8c15dc6b00d8fb28e057dddf3cff08e3
+Cache Hit!
+@|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|8|37|lv.arivaariva.jetpacks.blocks|package|lv.arivaariva.jetpacks.blocks|(file)
+Class Start: lv.arivaariva.jetpacks.blocks.BlockFlyum
+   @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|352|362|BlockFlyum|class|lv.arivaariva.jetpacks.blocks.BlockFlyum
+   @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|371|396|net.minecraft.block.Block|class|net.minecraft.block.Block
+   Method Start: BlockFlyum()V
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|411|421|BlockFlyum|method|lv.arivaariva.jetpacks.blocks.BlockFlyum|BlockFlyum|()V
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|440|448|Material|class|net.minecraft.block.material.Material
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|449|453|ROCK|field|net.minecraft.block.material.Material|ROCK
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|464|482|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|483|505|Reference.CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|506|516|flyumblock|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|flyumblock
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|517|535|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|548|563|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|564|586|Reference.CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|587|597|flyumblock|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|flyumblock
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|598|613|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|626|640|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|641|649|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|650|662|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|673|684|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|700|715|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+   Method End: BlockFlyum()V
+   Method Start: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|795|800|state|param|lv.arivaariva.jetpacks.blocks.BlockFlyum|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|state|0
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|809|813|rand|param|lv.arivaariva.jetpacks.blocks.BlockFlyum|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|rand|1
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|819|826|fortune|param|lv.arivaariva.jetpacks.blocks.BlockFlyum|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|fortune|2
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|743|751|Override|class|java.lang.Override
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|763|767|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|768|782|getItemDropped|method|net.minecraft.block.Block|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|783|794|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|802|808|Random|class|java.util.Random
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|849|853|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\blocks\BlockFlyum.java|854|870|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+   Method End: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+Class End  : lv.arivaariva.jetpacks.blocks.BlockFlyum
+endProcessing "lv\arivaariva\jetpacks\blocks\BlockFlyum.java"
+
+startProcessing "lv\arivaariva\jetpacks\blocks\BlockMasterium.java" md5: b70571063118aebf91108bff679ff5f1
+Cache Hit!
+@|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|8|37|lv.arivaariva.jetpacks.blocks|package|lv.arivaariva.jetpacks.blocks|(file)
+Class Start: lv.arivaariva.jetpacks.blocks.BlockMasterium
+   @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|319|333|BlockMasterium|class|lv.arivaariva.jetpacks.blocks.BlockMasterium
+   @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|342|347|Block|class|net.minecraft.block.Block
+   Method Start: BlockMasterium()V
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|362|376|BlockMasterium|method|lv.arivaariva.jetpacks.blocks.BlockMasterium|BlockMasterium|()V
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|395|403|Material|class|net.minecraft.block.material.Material
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|404|408|ROCK|field|net.minecraft.block.material.Material|ROCK
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|419|437|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|438|460|Reference.CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|461|475|masteriumblock|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|masteriumblock
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|476|494|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|507|522|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|523|545|Reference.CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|546|560|masteriumblock|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|masteriumblock
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|561|576|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|589|603|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|604|612|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|613|625|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|636|647|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|664|679|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+   Method End: BlockMasterium()V
+   Method Start: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|759|764|state|param|lv.arivaariva.jetpacks.blocks.BlockMasterium|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|state|0
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|773|777|rand|param|lv.arivaariva.jetpacks.blocks.BlockMasterium|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|rand|1
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|783|790|fortune|param|lv.arivaariva.jetpacks.blocks.BlockMasterium|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|fortune|2
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|707|715|Override|class|java.lang.Override
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|727|731|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|732|746|getItemDropped|method|net.minecraft.block.Block|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|747|758|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|766|772|Random|class|java.util.Random
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|813|817|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\blocks\BlockMasterium.java|818|834|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+   Method End: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+Class End  : lv.arivaariva.jetpacks.blocks.BlockMasterium
+endProcessing "lv\arivaariva\jetpacks\blocks\BlockMasterium.java"
+
+startProcessing "lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java" md5: 73f6a45ec0f270251ad38e6ea2fbe0a3
+Cache Hit!
+@|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|8|37|lv.arivaariva.jetpacks.blocks|package|lv.arivaariva.jetpacks.blocks|(file)
+Class Start: lv.arivaariva.jetpacks.blocks.BlockMasteriumOre
+   @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|400|417|BlockMasteriumOre|class|lv.arivaariva.jetpacks.blocks.BlockMasteriumOre
+   @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|426|451|net.minecraft.block.Block|class|net.minecraft.block.Block
+   Method Start: BlockMasteriumOre()V
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|466|483|BlockMasteriumOre|method|lv.arivaariva.jetpacks.blocks.BlockMasteriumOre|BlockMasteriumOre|()V
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|506|514|Material|class|net.minecraft.block.material.Material
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|515|519|ROCK|field|net.minecraft.block.material.Material|ROCK
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|530|548|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|549|571|Reference.CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|572|584|masteriumore|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|masteriumore
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|585|603|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|616|631|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|632|654|Reference.CustomBlocks|class|lv.arivaariva.jetpacks.Reference.CustomBlocks
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|655|667|masteriumore|field|lv.arivaariva.jetpacks.Reference.CustomBlocks|masteriumore
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|668|683|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomBlocks|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|696|710|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|711|719|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|720|732|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|743|754|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|771|786|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+   Method End: BlockMasteriumOre()V
+   Method Start: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|866|871|state|param|lv.arivaariva.jetpacks.blocks.BlockMasteriumOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|state|0
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|880|884|rand|param|lv.arivaariva.jetpacks.blocks.BlockMasteriumOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|rand|1
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|890|897|fortune|param|lv.arivaariva.jetpacks.blocks.BlockMasteriumOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|fortune|2
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|814|822|Override|class|java.lang.Override
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|834|838|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|839|853|getItemDropped|method|net.minecraft.block.Block|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|854|865|IBlockState|class|net.minecraft.block.state.IBlockState
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|873|879|Random|class|java.util.Random
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|924|928|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java|929|945|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+   Method End: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+Class End  : lv.arivaariva.jetpacks.blocks.BlockMasteriumOre
+endProcessing "lv\arivaariva\jetpacks\blocks\BlockMasteriumOre.java"
+
+startProcessing "lv\arivaariva\jetpacks\init\CustomBlocks.java" md5: a7e1bd439bd492c3f6c274a187478808
+@|lv\arivaariva\jetpacks\init\CustomBlocks.java|8|35|lv.arivaariva.jetpacks.init|package|lv.arivaariva.jetpacks.init|(file)
+Class Start: lv.arivaariva.jetpacks.init.CustomBlocks
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|366|378|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|400|405|Block|class|net.minecraft.block.Block
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|400|405|Block|class|net.minecraft.block.Block
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|406|414|flyumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|flyumOre|
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|434|439|Block|class|net.minecraft.block.Block
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|434|439|Block|class|net.minecraft.block.Block
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|440|452|advanciumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|advanciumOre|
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|472|477|Block|class|net.minecraft.block.Block
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|472|477|Block|class|net.minecraft.block.Block
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|478|490|masteriumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|masteriumOre|
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|510|515|Block|class|net.minecraft.block.Block
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|510|515|Block|class|net.minecraft.block.Block
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|516|526|flyumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|flyumBlock|
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|546|551|Block|class|net.minecraft.block.Block
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|546|551|Block|class|net.minecraft.block.Block
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|552|566|advanciumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|advanciumBlock|
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|586|591|Block|class|net.minecraft.block.Block
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|586|591|Block|class|net.minecraft.block.Block
+   @|lv\arivaariva\jetpacks\init\CustomBlocks.java|592|606|masteriumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|masteriumBlock|
+   Method Start: init()V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|632|636|init|method|lv.arivaariva.jetpacks.init.CustomBlocks|init|()V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|649|657|flyumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|flyumOre
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|664|678|BlockFlyiumOre|class|lv.arivaariva.jetpacks.blocks.BlockFlyiumOre
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|690|702|advanciumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|advanciumOre
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|709|726|BlockAdvanciumOre|class|lv.arivaariva.jetpacks.blocks.BlockAdvanciumOre
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|738|750|masteriumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|masteriumOre
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|757|774|BlockMasteriumOre|class|lv.arivaariva.jetpacks.blocks.BlockMasteriumOre
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|786|796|flyumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|flyumBlock
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|803|813|BlockFlyum|class|lv.arivaariva.jetpacks.blocks.BlockFlyum
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|825|839|advanciumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|advanciumBlock
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|846|860|BlockAdvancium|class|lv.arivaariva.jetpacks.blocks.BlockAdvancium
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|872|886|masteriumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|masteriumBlock
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|893|907|BlockMasterium|class|lv.arivaariva.jetpacks.blocks.BlockMasterium
+   Method End: init()V
+   Method Start: register()V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|941|949|register|method|lv.arivaariva.jetpacks.init.CustomBlocks|register|()V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|962|975|registerBlock|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerBlock|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|976|984|flyumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|flyumOre
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|995|1008|registerBlock|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerBlock|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1009|1021|advanciumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|advanciumOre
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1032|1045|registerBlock|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerBlock|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1046|1058|masteriumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|masteriumOre
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1069|1082|registerBlock|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerBlock|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1083|1093|flyumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|flyumBlock
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1104|1117|registerBlock|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerBlock|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1118|1132|advanciumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|advanciumBlock
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1143|1156|registerBlock|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerBlock|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1157|1171|masteriumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|masteriumBlock
+   Method End: register()V
+   Method Start: registerBlock(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1225|1230|block|param|lv.arivaariva.jetpacks.init.CustomBlocks|registerBlock|(Lnet/minecraft/block/Block;)V|block|0
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1205|1218|registerBlock|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerBlock|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1219|1224|Block|class|net.minecraft.block.Block
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1246|1258|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1259|1271|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1272|1277|Block|class|net.minecraft.block.Block
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1285|1293|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1294|1299|block|param|lv.arivaariva.jetpacks.init.CustomBlocks|registerBlock|(Lnet/minecraft/block/Block;)V|block|0
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1310|1319|ItemBlock|class|net.minecraft.item.ItemBlock
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1331|1340|ItemBlock|class|net.minecraft.item.ItemBlock
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1341|1346|block|param|lv.arivaariva.jetpacks.init.CustomBlocks|registerBlock|(Lnet/minecraft/block/Block;)V|block|0
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1362|1377|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|setRegistryName|(Lnet/minecraft/util/ResourceLocation;)Ljava/lang/Object;
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1378|1383|block|param|lv.arivaariva.jetpacks.init.CustomBlocks|registerBlock|(Lnet/minecraft/block/Block;)V|block|0
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1384|1399|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1412|1424|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1425|1437|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1438|1442|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1450|1458|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+   Method End: registerBlock(Lnet/minecraft/block/Block;)V
+   Method Start: registerRenders()V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1496|1511|registerRenders|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerRenders|()V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1524|1538|registerRender|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerRender|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1539|1547|flyumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|flyumOre
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1558|1572|registerRender|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerRender|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1573|1585|advanciumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|advanciumOre
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1596|1610|registerRender|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerRender|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1611|1623|masteriumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|masteriumOre
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1634|1648|registerRender|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerRender|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1649|1659|flyumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|flyumBlock
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1670|1684|registerRender|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerRender|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1685|1699|advanciumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|advanciumBlock
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1710|1724|registerRender|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerRender|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1725|1739|masteriumBlock|field|lv.arivaariva.jetpacks.init.CustomBlocks|masteriumBlock
+   Method End: registerRenders()V
+   Method Start: registerRender(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1794|1799|block|param|lv.arivaariva.jetpacks.init.CustomBlocks|registerRender|(Lnet/minecraft/block/Block;)V|block|0
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1773|1787|registerRender|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerRender|(Lnet/minecraft/block/Block;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1788|1793|Block|class|net.minecraft.block.Block
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1811|1820|Minecraft|class|net.minecraft.client.Minecraft
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1821|1833|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1836|1849|getRenderItem|method|net.minecraft.client.Minecraft|getRenderItem|()Lnet/minecraft/client/renderer/RenderItem;
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1852|1870|getItemModelMesher|method|net.minecraft.client.renderer.RenderItem|getItemModelMesher|()Lnet/minecraft/client/renderer/ItemModelMesher;
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1873|1881|register|method|net.minecraft.client.renderer.ItemModelMesher|register|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1882|1886|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1887|1903|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1904|1909|block|param|lv.arivaariva.jetpacks.init.CustomBlocks|registerRender|(Lnet/minecraft/block/Block;)V|block|0
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1917|1938|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1939|1944|block|param|lv.arivaariva.jetpacks.init.CustomBlocks|registerRender|(Lnet/minecraft/block/Block;)V|block|0
+      @|lv\arivaariva\jetpacks\init\CustomBlocks.java|1945|1960|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: registerRender(Lnet/minecraft/block/Block;)V
+Class End  : lv.arivaariva.jetpacks.init.CustomBlocks
+endProcessing "lv\arivaariva\jetpacks\init\CustomBlocks.java"
+
+startProcessing "lv\arivaariva\jetpacks\init\CustomItems.java" md5: cf56eb211c38df7852ad9d74acc7846f
+@|lv\arivaariva\jetpacks\init\CustomItems.java|8|35|lv.arivaariva.jetpacks.init|package|lv.arivaariva.jetpacks.init|(file)
+Class Start: lv.arivaariva.jetpacks.init.CustomItems
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|344|355|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|377|381|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|377|381|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|382|392|flyumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|flyumIngot|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|412|416|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|412|416|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|417|431|advanciumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumIngot|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|451|455|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|451|455|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|456|470|masteriumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumIngot|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|490|494|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|490|494|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|495|506|flyumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|flyumNugget|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|526|530|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|526|530|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|531|546|advanciumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumNugget|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|566|570|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|566|570|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|571|586|masteriumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumNugget|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|606|610|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|606|610|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|611|623|flyumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumPickaxe|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|643|647|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|643|647|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|648|659|flyumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|flyumShovel|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|679|683|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|679|683|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|684|692|flyumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumAxe|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|712|716|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|712|716|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|717|725|flyumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumHoe|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|745|749|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|745|749|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|750|760|flyumSword|field|lv.arivaariva.jetpacks.init.CustomItems|flyumSword|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|780|784|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|780|784|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|785|801|advanciumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumPickaxe|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|821|825|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|821|825|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|826|841|advanciumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumShovel|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|861|865|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|861|865|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|866|878|advanciumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumAxe|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|898|902|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|898|902|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|903|915|advanciumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumHoe|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|935|939|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|935|939|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|940|954|advanciumSword|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumSword|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|974|978|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|974|978|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|979|995|masteriumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumPickaxe|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1015|1019|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1015|1019|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1020|1035|masteriumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumShovel|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1055|1059|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1055|1059|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1060|1072|masteriumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumAxe|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1092|1096|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1092|1096|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1097|1109|masteriumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumHoe|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1129|1133|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1129|1133|Item|class|net.minecraft.item.Item
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1134|1148|masteriumSword|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumSword|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1169|1186|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1169|1186|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1187|1199|flyumToolMat|field|lv.arivaariva.jetpacks.init.CustomItems|flyumToolMat|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1202|1212|EnumHelper|class|net.minecraftforge.common.util.EnumHelper
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1213|1228|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1291|1308|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1291|1308|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1309|1322|flyumSwordMat|field|lv.arivaariva.jetpacks.init.CustomItems|flyumSwordMat|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1325|1335|EnumHelper|class|net.minecraftforge.common.util.EnumHelper
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1336|1351|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1419|1436|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1419|1436|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1437|1453|advanciumToolMat|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumToolMat|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1456|1466|EnumHelper|class|net.minecraftforge.common.util.EnumHelper
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1467|1482|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1549|1566|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1549|1566|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1567|1584|advanciumSwordMat|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumSwordMat|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1587|1597|EnumHelper|class|net.minecraftforge.common.util.EnumHelper
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1598|1613|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1686|1703|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1686|1703|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1704|1720|masteriumToolMat|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumToolMat|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1723|1733|EnumHelper|class|net.minecraftforge.common.util.EnumHelper
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1734|1749|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1817|1834|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1817|1834|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1835|1852|masteriumSwordMat|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumSwordMat|
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1855|1865|EnumHelper|class|net.minecraftforge.common.util.EnumHelper
+   @|lv\arivaariva\jetpacks\init\CustomItems.java|1866|1881|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   Method Start: init()V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|1959|1963|init|method|lv.arivaariva.jetpacks.init.CustomItems|init|()V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|1976|1986|flyumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|flyumIngot
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|1993|2003|FlyumIngot|class|lv.arivaariva.jetpacks.items.FlyumIngot
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2015|2029|advanciumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumIngot
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2036|2050|AdvanciumIngot|class|lv.arivaariva.jetpacks.items.AdvanciumIngot
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2062|2076|masteriumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumIngot
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2083|2097|MasteriumIngot|class|lv.arivaariva.jetpacks.items.MasteriumIngot
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2109|2120|flyumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|flyumNugget
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2127|2138|FlyumNugget|class|lv.arivaariva.jetpacks.items.FlyumNugget
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2150|2165|advanciumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumNugget
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2172|2187|AdvanciumNugget|class|lv.arivaariva.jetpacks.items.AdvanciumNugget
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2199|2214|masteriumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumNugget
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2221|2236|MasteriumNugget|class|lv.arivaariva.jetpacks.items.MasteriumNugget
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2248|2258|flyumSword|field|lv.arivaariva.jetpacks.init.CustomItems|flyumSword
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2265|2275|FlyumSword|class|lv.arivaariva.jetpacks.items.FlyumSword
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2276|2289|flyumSwordMat|field|lv.arivaariva.jetpacks.init.CustomItems|flyumSwordMat
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2300|2314|advanciumSword|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumSword
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2321|2335|AdvanciumSword|class|lv.arivaariva.jetpacks.items.AdvanciumSword
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2336|2353|advanciumSwordMat|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumSwordMat
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2364|2378|masteriumSword|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumSword
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2385|2399|MasteriumSword|class|lv.arivaariva.jetpacks.items.MasteriumSword
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2400|2417|masteriumSwordMat|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumSwordMat
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2428|2440|flyumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumPickaxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2447|2459|FlyumPickaxe|class|lv.arivaariva.jetpacks.items.FlyumPickaxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2460|2472|flyumToolMat|field|lv.arivaariva.jetpacks.init.CustomItems|flyumToolMat
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2483|2499|advanciumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumPickaxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2506|2522|AdvanciumPickaxe|class|lv.arivaariva.jetpacks.items.AdvanciumPickaxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2523|2539|advanciumToolMat|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumToolMat
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2550|2566|masteriumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumPickaxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2573|2589|MasteriumPickaxe|class|lv.arivaariva.jetpacks.items.MasteriumPickaxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2590|2606|masteriumToolMat|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumToolMat
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2617|2628|flyumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|flyumShovel
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2635|2646|FlyumShovel|class|lv.arivaariva.jetpacks.items.FlyumShovel
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2647|2659|flyumToolMat|field|lv.arivaariva.jetpacks.init.CustomItems|flyumToolMat
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2670|2685|advanciumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumShovel
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2692|2707|AdvanciumShovel|class|lv.arivaariva.jetpacks.items.AdvanciumShovel
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2708|2724|advanciumToolMat|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumToolMat
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2735|2750|masteriumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumShovel
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2757|2772|MasteriumShovel|class|lv.arivaariva.jetpacks.items.MasteriumShovel
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2773|2789|masteriumToolMat|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumToolMat
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2800|2808|flyumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumAxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2815|2823|FlyumAxe|class|lv.arivaariva.jetpacks.items.FlyumAxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2824|2841|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2842|2849|DIAMOND|field|net.minecraft.item.Item.ToolMaterial|DIAMOND
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2860|2872|advanciumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumAxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2879|2891|AdvanciumAxe|class|lv.arivaariva.jetpacks.items.AdvanciumAxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2892|2909|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2910|2917|DIAMOND|field|net.minecraft.item.Item.ToolMaterial|DIAMOND
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2928|2940|masteriumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumAxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2947|2959|MasteriumAxe|class|lv.arivaariva.jetpacks.items.MasteriumAxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2960|2977|Item.ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2978|2985|DIAMOND|field|net.minecraft.item.Item.ToolMaterial|DIAMOND
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|2996|3004|flyumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumHoe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3011|3019|FlyumHoe|class|lv.arivaariva.jetpacks.items.FlyumHoe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3020|3032|flyumToolMat|field|lv.arivaariva.jetpacks.init.CustomItems|flyumToolMat
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3043|3055|advanciumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumHoe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3062|3074|AdvanciumHoe|class|lv.arivaariva.jetpacks.items.AdvanciumHoe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3075|3091|advanciumToolMat|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumToolMat
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3102|3114|masteriumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumHoe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3121|3133|MasteriumHoe|class|lv.arivaariva.jetpacks.items.MasteriumHoe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3134|3150|masteriumToolMat|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumToolMat
+   Method End: init()V
+   Method Start: register()V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3183|3191|register|method|lv.arivaariva.jetpacks.init.CustomItems|register|()V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3204|3216|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3217|3229|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3230|3234|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3242|3250|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3251|3261|flyumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|flyumIngot
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3272|3284|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3285|3297|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3298|3302|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3310|3318|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3319|3333|advanciumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumIngot
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3344|3356|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3357|3369|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3370|3374|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3382|3390|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3391|3405|masteriumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumIngot
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3416|3428|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3429|3441|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3442|3446|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3454|3462|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3463|3474|flyumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|flyumNugget
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3485|3497|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3498|3510|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3511|3515|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3523|3531|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3532|3547|advanciumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumNugget
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3558|3570|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3571|3583|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3584|3588|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3596|3604|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3605|3620|masteriumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumNugget
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3631|3643|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3644|3656|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3657|3661|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3669|3677|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3678|3686|flyumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumAxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3697|3709|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3710|3722|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3723|3727|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3735|3743|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3744|3752|flyumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumHoe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3763|3775|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3776|3788|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3789|3793|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3801|3809|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3810|3821|flyumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|flyumShovel
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3832|3844|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3845|3857|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3858|3862|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3870|3878|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3879|3891|flyumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumPickaxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3902|3914|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3915|3927|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3928|3932|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3940|3948|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3949|3959|flyumSword|field|lv.arivaariva.jetpacks.init.CustomItems|flyumSword
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3970|3982|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3983|3995|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|3996|4000|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4008|4016|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4017|4029|advanciumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumAxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4040|4052|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4053|4065|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4066|4070|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4078|4086|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4087|4099|advanciumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumHoe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4110|4122|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4123|4135|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4136|4140|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4148|4156|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4157|4172|advanciumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumShovel
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4183|4195|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4196|4208|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4209|4213|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4221|4229|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4230|4246|advanciumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumPickaxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4257|4269|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4270|4282|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4283|4287|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4295|4303|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4304|4318|advanciumSword|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumSword
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4329|4341|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4342|4354|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4355|4359|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4367|4375|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4376|4388|masteriumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumAxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4399|4411|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4412|4424|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4425|4429|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4437|4445|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4446|4458|masteriumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumHoe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4469|4481|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4482|4494|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4495|4499|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4507|4515|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4516|4531|masteriumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumShovel
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4542|4554|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4555|4567|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4568|4572|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4580|4588|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4589|4605|masteriumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumPickaxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4616|4628|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4629|4641|findRegistry|method|net.minecraftforge.fml.common.registry.GameRegistry|findRegistry|(Ljava/lang/Class;)Lnet/minecraftforge/registries/IForgeRegistry;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4642|4646|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4654|4662|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4663|4677|masteriumSword|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumSword
+   Method End: register()V
+   Method Start: registerRenders()V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4710|4725|registerRenders|method|lv.arivaariva.jetpacks.init.CustomItems|registerRenders|()V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4738|4752|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4753|4763|flyumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|flyumIngot
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4774|4788|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4789|4803|advanciumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumIngot
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4814|4828|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4829|4843|masteriumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumIngot
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4854|4868|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4869|4880|flyumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|flyumNugget
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4891|4905|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4906|4921|advanciumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumNugget
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4932|4946|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4947|4962|masteriumNugget|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumNugget
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4973|4987|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|4988|4996|flyumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumAxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5007|5021|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5022|5034|flyumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumPickaxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5045|5059|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5060|5071|flyumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|flyumShovel
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5082|5096|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5097|5105|flyumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|flyumHoe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5116|5130|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5131|5141|flyumSword|field|lv.arivaariva.jetpacks.init.CustomItems|flyumSword
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5152|5166|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5167|5179|advanciumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumAxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5190|5204|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5205|5221|advanciumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumPickaxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5232|5246|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5247|5262|advanciumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumShovel
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5273|5287|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5288|5300|advanciumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumHoe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5311|5325|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5326|5340|advanciumSword|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumSword
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5351|5365|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5366|5382|masteriumPickaxe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumPickaxe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5393|5407|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5408|5423|masteriumShovel|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumShovel
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5434|5448|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5449|5461|masteriumHoe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumHoe
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5472|5486|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5487|5501|masteriumSword|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumSword
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5512|5526|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5527|5539|masteriumAxe|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumAxe
+   Method End: registerRenders()V
+   Method Start: registerRender(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5593|5597|item|param|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V|item|0
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5573|5587|registerRender|method|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5588|5592|Item|class|net.minecraft.item.Item
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5609|5618|Minecraft|class|net.minecraft.client.Minecraft
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5619|5631|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5634|5647|getRenderItem|method|net.minecraft.client.Minecraft|getRenderItem|()Lnet/minecraft/client/renderer/RenderItem;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5650|5668|getItemModelMesher|method|net.minecraft.client.renderer.RenderItem|getItemModelMesher|()Lnet/minecraft/client/renderer/ItemModelMesher;
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5671|5679|register|method|net.minecraft.client.renderer.ItemModelMesher|register|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5680|5684|item|param|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V|item|0
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5691|5712|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5713|5717|item|param|lv.arivaariva.jetpacks.init.CustomItems|registerRender|(Lnet/minecraft/item/Item;)V|item|0
+      @|lv\arivaariva\jetpacks\init\CustomItems.java|5718|5733|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: registerRender(Lnet/minecraft/item/Item;)V
+Class End  : lv.arivaariva.jetpacks.init.CustomItems
+endProcessing "lv\arivaariva\jetpacks\init\CustomItems.java"
+
+startProcessing "lv\arivaariva\jetpacks\init\CustomRecipes.java" md5: 9ec3dc7396b9c63021a862b93205d4c5
+@|lv\arivaariva\jetpacks\init\CustomRecipes.java|8|35|lv.arivaariva.jetpacks.init|package|lv.arivaariva.jetpacks.init|(file)
+Class Start: lv.arivaariva.jetpacks.init.CustomRecipes
+   @|lv\arivaariva\jetpacks\init\CustomRecipes.java|242|255|CustomRecipes|class|lv.arivaariva.jetpacks.init.CustomRecipes
+   Method Start: registerRecipes()V
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|282|297|registerRecipes|method|lv.arivaariva.jetpacks.init.CustomRecipes|registerRecipes|()V
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|310|322|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|323|334|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/block/Block;Lnet/minecraft/item/ItemStack;F)V
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|335|347|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|348|356|flyumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|flyumOre
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|362|371|ItemStack|class|net.minecraft.item.ItemStack
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|372|383|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|384|394|flyumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|flyumIngot
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|409|421|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|422|433|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/block/Block;Lnet/minecraft/item/ItemStack;F)V
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|434|446|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|447|459|advanciumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|advanciumOre
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|465|474|ItemStack|class|net.minecraft.item.ItemStack
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|475|486|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|487|501|advanciumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|advanciumIngot
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|516|528|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|529|540|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/block/Block;Lnet/minecraft/item/ItemStack;F)V
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|541|553|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|554|566|masteriumOre|field|lv.arivaariva.jetpacks.init.CustomBlocks|masteriumOre
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|572|581|ItemStack|class|net.minecraft.item.ItemStack
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|582|593|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\init\CustomRecipes.java|594|608|masteriumIngot|field|lv.arivaariva.jetpacks.init.CustomItems|masteriumIngot
+   Method End: registerRecipes()V
+Class End  : lv.arivaariva.jetpacks.init.CustomRecipes
+endProcessing "lv\arivaariva\jetpacks\init\CustomRecipes.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumAxe.java" md5: b1edf3eb91085a99c60ee193690bb273
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.AdvanciumAxe
+   @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|219|231|AdvanciumAxe|class|lv.arivaariva.jetpacks.items.AdvanciumAxe
+   @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|240|247|ItemAxe|class|net.minecraft.item.ItemAxe
+   Method Start: AdvanciumAxe(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|288|296|material|param|lv.arivaariva.jetpacks.items.AdvanciumAxe|AdvanciumAxe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|262|274|AdvanciumAxe|method|lv.arivaariva.jetpacks.items.AdvanciumAxe|AdvanciumAxe|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|275|287|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|314|322|material|param|lv.arivaariva.jetpacks.items.AdvanciumAxe|AdvanciumAxe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|333|351|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|352|373|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|374|386|advanciumaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumaxe
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|387|405|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|418|433|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|434|455|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|456|468|advanciumaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumaxe
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|469|484|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|497|511|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|512|520|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\AdvanciumAxe.java|521|533|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: AdvanciumAxe(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.AdvanciumAxe
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumAxe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumHoe.java" md5: dd8d80148b24442f423e2ed11636ec2f
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.AdvanciumHoe
+   @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|219|231|AdvanciumHoe|class|lv.arivaariva.jetpacks.items.AdvanciumHoe
+   @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|240|247|ItemHoe|class|net.minecraft.item.ItemHoe
+   Method Start: AdvanciumHoe(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|288|296|material|param|lv.arivaariva.jetpacks.items.AdvanciumHoe|AdvanciumHoe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|262|274|AdvanciumHoe|method|lv.arivaariva.jetpacks.items.AdvanciumHoe|AdvanciumHoe|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|275|287|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|314|322|material|param|lv.arivaariva.jetpacks.items.AdvanciumHoe|AdvanciumHoe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|333|351|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|352|373|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|374|386|advanciumhoe|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumhoe
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|387|405|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|418|433|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|434|455|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|456|468|advanciumhoe|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumhoe
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|469|484|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|497|511|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|512|520|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\AdvanciumHoe.java|521|533|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: AdvanciumHoe(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.AdvanciumHoe
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumHoe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumIngot.java" md5: ceedd23e8c35fd5d04314c2ff71f769b
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.AdvanciumIngot
+   @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|134|148|AdvanciumIngot|class|lv.arivaariva.jetpacks.items.AdvanciumIngot
+   @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|157|180|net.minecraft.item.Item|class|net.minecraft.item.Item
+   Method Start: AdvanciumIngot()V
+      @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|195|209|AdvanciumIngot|method|lv.arivaariva.jetpacks.items.AdvanciumIngot|AdvanciumIngot|()V
+      @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|226|244|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|245|266|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|267|281|advanciumingot|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumingot
+      @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|282|300|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|313|328|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|329|350|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|351|365|advanciumingot|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumingot
+      @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|366|381|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|394|408|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|409|417|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\AdvanciumIngot.java|418|430|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: AdvanciumIngot()V
+Class End  : lv.arivaariva.jetpacks.items.AdvanciumIngot
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumIngot.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumNugget.java" md5: 0501712283c906e172f737ad2ca663e6
+@|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.AdvanciumNugget
+   @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|134|149|AdvanciumNugget|class|lv.arivaariva.jetpacks.items.AdvanciumNugget
+   @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|158|181|net.minecraft.item.Item|class|net.minecraft.item.Item
+   Method Start: AdvanciumNugget()V
+      @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|196|211|AdvanciumNugget|method|lv.arivaariva.jetpacks.items.AdvanciumNugget|AdvanciumNugget|()V
+      @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|228|246|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|247|268|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|269|284|advanciumNugget|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumNugget
+      @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|285|303|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|316|331|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|332|353|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|354|369|advanciumNugget|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumNugget
+      @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|370|385|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|398|412|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|413|421|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\AdvanciumNugget.java|422|434|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: AdvanciumNugget()V
+Class End  : lv.arivaariva.jetpacks.items.AdvanciumNugget
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumNugget.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java" md5: 9129b359ce1d145b7d838e9c5b5ea605
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.AdvanciumPickaxe
+   @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|223|239|AdvanciumPickaxe|class|lv.arivaariva.jetpacks.items.AdvanciumPickaxe
+   @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|248|259|ItemPickaxe|class|net.minecraft.item.ItemPickaxe
+   Method Start: AdvanciumPickaxe(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|304|312|material|param|lv.arivaariva.jetpacks.items.AdvanciumPickaxe|AdvanciumPickaxe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|274|290|AdvanciumPickaxe|method|lv.arivaariva.jetpacks.items.AdvanciumPickaxe|AdvanciumPickaxe|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|291|303|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|330|338|material|param|lv.arivaariva.jetpacks.items.AdvanciumPickaxe|AdvanciumPickaxe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|349|367|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|368|389|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|390|406|advanciumpickaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumpickaxe
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|407|425|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|438|453|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|454|475|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|476|492|advanciumpickaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumpickaxe
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|493|508|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|521|535|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|536|544|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java|545|557|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: AdvanciumPickaxe(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.AdvanciumPickaxe
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumPickaxe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumShovel.java" md5: 9dcaba3359dee094e0d7c3ad3af8973d
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.AdvanciumShovel
+   @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|221|236|AdvanciumShovel|class|lv.arivaariva.jetpacks.items.AdvanciumShovel
+   @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|245|254|ItemSpade|class|net.minecraft.item.ItemSpade
+   Method Start: AdvanciumShovel(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|298|306|material|param|lv.arivaariva.jetpacks.items.AdvanciumShovel|AdvanciumShovel|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|269|284|AdvanciumShovel|method|lv.arivaariva.jetpacks.items.AdvanciumShovel|AdvanciumShovel|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|285|297|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|324|332|material|param|lv.arivaariva.jetpacks.items.AdvanciumShovel|AdvanciumShovel|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|343|361|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|362|383|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|384|399|advanciumshovel|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumshovel
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|400|418|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|431|446|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|447|468|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|469|484|advanciumshovel|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumshovel
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|485|500|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|513|527|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|528|536|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\AdvanciumShovel.java|537|549|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: AdvanciumShovel(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.AdvanciumShovel
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumShovel.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\AdvanciumSword.java" md5: d7c758c31f54c45755a41e9ca8e68857
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\AdvanciumSword.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.AdvanciumSword
+   @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|171|185|AdvanciumSword|class|lv.arivaariva.jetpacks.items.AdvanciumSword
+   @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|194|203|ItemSword|class|net.minecraft.item.ItemSword
+   Method Start: AdvanciumSword(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|246|254|material|param|lv.arivaariva.jetpacks.items.AdvanciumSword|AdvanciumSword|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|218|232|AdvanciumSword|method|lv.arivaariva.jetpacks.items.AdvanciumSword|AdvanciumSword|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|233|245|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|276|284|material|param|lv.arivaariva.jetpacks.items.AdvanciumSword|AdvanciumSword|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|295|313|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|314|335|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|336|350|advanciumsword|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumsword
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|351|369|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|382|397|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|398|419|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|420|434|advanciumsword|field|lv.arivaariva.jetpacks.Reference.CustomItems|advanciumsword
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|435|450|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|463|477|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|478|486|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\AdvanciumSword.java|487|499|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: AdvanciumSword(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.AdvanciumSword
+endProcessing "lv\arivaariva\jetpacks\items\AdvanciumSword.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumAxe.java" md5: cd0e298e844b95474878086f134172f0
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\FlyumAxe.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.FlyumAxe
+   @|lv\arivaariva\jetpacks\items\FlyumAxe.java|219|227|FlyumAxe|class|lv.arivaariva.jetpacks.items.FlyumAxe
+   @|lv\arivaariva\jetpacks\items\FlyumAxe.java|236|243|ItemAxe|class|net.minecraft.item.ItemAxe
+   Method Start: FlyumAxe(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|280|288|material|param|lv.arivaariva.jetpacks.items.FlyumAxe|FlyumAxe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|258|266|FlyumAxe|method|lv.arivaariva.jetpacks.items.FlyumAxe|FlyumAxe|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|267|279|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|306|314|material|param|lv.arivaariva.jetpacks.items.FlyumAxe|FlyumAxe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|325|343|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|344|365|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|366|374|flyumaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumaxe
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|375|393|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|406|421|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|422|443|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|444|452|flyumaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumaxe
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|453|468|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|481|495|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|496|504|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\FlyumAxe.java|505|517|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: FlyumAxe(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.FlyumAxe
+endProcessing "lv\arivaariva\jetpacks\items\FlyumAxe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumHoe.java" md5: 9dfe9a83b5fab06dece41654cd47bb6a
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\FlyumHoe.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.FlyumHoe
+   @|lv\arivaariva\jetpacks\items\FlyumHoe.java|219|227|FlyumHoe|class|lv.arivaariva.jetpacks.items.FlyumHoe
+   @|lv\arivaariva\jetpacks\items\FlyumHoe.java|236|243|ItemHoe|class|net.minecraft.item.ItemHoe
+   Method Start: FlyumHoe(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|280|288|material|param|lv.arivaariva.jetpacks.items.FlyumHoe|FlyumHoe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|258|266|FlyumHoe|method|lv.arivaariva.jetpacks.items.FlyumHoe|FlyumHoe|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|267|279|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|306|314|material|param|lv.arivaariva.jetpacks.items.FlyumHoe|FlyumHoe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|325|343|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|344|365|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|366|374|flyumhoe|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumhoe
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|375|393|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|406|421|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|422|443|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|444|452|flyumhoe|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumhoe
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|453|468|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|481|495|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|496|504|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\FlyumHoe.java|505|517|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: FlyumHoe(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.FlyumHoe
+endProcessing "lv\arivaariva\jetpacks\items\FlyumHoe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumIngot.java" md5: 5b57682cc3fbd7aacdb278faddd9dc22
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\FlyumIngot.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.FlyumIngot
+   @|lv\arivaariva\jetpacks\items\FlyumIngot.java|166|176|FlyumIngot|class|lv.arivaariva.jetpacks.items.FlyumIngot
+   @|lv\arivaariva\jetpacks\items\FlyumIngot.java|185|189|Item|class|net.minecraft.item.Item
+   Method Start: FlyumIngot()V
+      @|lv\arivaariva\jetpacks\items\FlyumIngot.java|204|214|FlyumIngot|method|lv.arivaariva.jetpacks.items.FlyumIngot|FlyumIngot|()V
+      @|lv\arivaariva\jetpacks\items\FlyumIngot.java|231|249|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumIngot.java|250|271|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumIngot.java|272|282|flyumingot|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumingot
+      @|lv\arivaariva\jetpacks\items\FlyumIngot.java|283|301|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumIngot.java|314|329|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\FlyumIngot.java|330|351|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumIngot.java|352|362|flyumingot|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumingot
+      @|lv\arivaariva\jetpacks\items\FlyumIngot.java|363|378|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumIngot.java|391|405|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumIngot.java|406|414|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\FlyumIngot.java|415|427|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: FlyumIngot()V
+Class End  : lv.arivaariva.jetpacks.items.FlyumIngot
+endProcessing "lv\arivaariva\jetpacks\items\FlyumIngot.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumNugget.java" md5: 4c526b803a901040e2b3ae9a86831621
+@|lv\arivaariva\jetpacks\items\FlyumNugget.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.FlyumNugget
+   @|lv\arivaariva\jetpacks\items\FlyumNugget.java|134|145|FlyumNugget|class|lv.arivaariva.jetpacks.items.FlyumNugget
+   @|lv\arivaariva\jetpacks\items\FlyumNugget.java|154|177|net.minecraft.item.Item|class|net.minecraft.item.Item
+   Method Start: FlyumNugget()V
+      @|lv\arivaariva\jetpacks\items\FlyumNugget.java|192|203|FlyumNugget|method|lv.arivaariva.jetpacks.items.FlyumNugget|FlyumNugget|()V
+      @|lv\arivaariva\jetpacks\items\FlyumNugget.java|220|238|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumNugget.java|239|260|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumNugget.java|261|272|flyumNugget|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumNugget
+      @|lv\arivaariva\jetpacks\items\FlyumNugget.java|273|291|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumNugget.java|304|319|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\FlyumNugget.java|320|341|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumNugget.java|342|353|flyumNugget|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumNugget
+      @|lv\arivaariva\jetpacks\items\FlyumNugget.java|354|369|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumNugget.java|382|396|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumNugget.java|397|405|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\FlyumNugget.java|406|418|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: FlyumNugget()V
+Class End  : lv.arivaariva.jetpacks.items.FlyumNugget
+endProcessing "lv\arivaariva\jetpacks\items\FlyumNugget.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumPickaxe.java" md5: c973b03ae6db3e4a3bb0820f6e76e14c
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.FlyumPickaxe
+   @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|223|235|FlyumPickaxe|class|lv.arivaariva.jetpacks.items.FlyumPickaxe
+   @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|244|255|ItemPickaxe|class|net.minecraft.item.ItemPickaxe
+   Method Start: FlyumPickaxe(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|296|304|material|param|lv.arivaariva.jetpacks.items.FlyumPickaxe|FlyumPickaxe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|270|282|FlyumPickaxe|method|lv.arivaariva.jetpacks.items.FlyumPickaxe|FlyumPickaxe|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|283|295|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|322|330|material|param|lv.arivaariva.jetpacks.items.FlyumPickaxe|FlyumPickaxe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|341|359|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|360|381|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|382|394|flyumpickaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumpickaxe
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|395|413|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|426|441|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|442|463|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|464|476|flyumpickaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumpickaxe
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|477|492|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|505|519|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|520|528|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\FlyumPickaxe.java|529|541|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: FlyumPickaxe(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.FlyumPickaxe
+endProcessing "lv\arivaariva\jetpacks\items\FlyumPickaxe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumShovel.java" md5: 89e42a21b2535ea41e97eb3cf8575040
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\FlyumShovel.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.FlyumShovel
+   @|lv\arivaariva\jetpacks\items\FlyumShovel.java|221|232|FlyumShovel|class|lv.arivaariva.jetpacks.items.FlyumShovel
+   @|lv\arivaariva\jetpacks\items\FlyumShovel.java|241|250|ItemSpade|class|net.minecraft.item.ItemSpade
+   Method Start: FlyumShovel(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|290|298|material|param|lv.arivaariva.jetpacks.items.FlyumShovel|FlyumShovel|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|265|276|FlyumShovel|method|lv.arivaariva.jetpacks.items.FlyumShovel|FlyumShovel|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|277|289|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|316|324|material|param|lv.arivaariva.jetpacks.items.FlyumShovel|FlyumShovel|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|335|353|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|354|375|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|376|387|flyumshovel|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumshovel
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|388|406|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|419|434|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|435|456|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|457|468|flyumshovel|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumshovel
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|469|484|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|497|511|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|512|520|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\FlyumShovel.java|521|533|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: FlyumShovel(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.FlyumShovel
+endProcessing "lv\arivaariva\jetpacks\items\FlyumShovel.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\FlyumSword.java" md5: ce6309f5b1da2342b7ae4bf9dd29b968
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\FlyumSword.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.FlyumSword
+   @|lv\arivaariva\jetpacks\items\FlyumSword.java|171|181|FlyumSword|class|lv.arivaariva.jetpacks.items.FlyumSword
+   @|lv\arivaariva\jetpacks\items\FlyumSword.java|190|199|ItemSword|class|net.minecraft.item.ItemSword
+   Method Start: FlyumSword(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|238|246|material|param|lv.arivaariva.jetpacks.items.FlyumSword|FlyumSword|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|214|224|FlyumSword|method|lv.arivaariva.jetpacks.items.FlyumSword|FlyumSword|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|225|237|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|268|276|material|param|lv.arivaariva.jetpacks.items.FlyumSword|FlyumSword|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|287|305|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|306|327|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|328|338|flyumsword|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumsword
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|339|357|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|370|385|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|386|407|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|408|418|flyumsword|field|lv.arivaariva.jetpacks.Reference.CustomItems|flyumsword
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|419|434|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|447|461|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|462|470|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\FlyumSword.java|471|483|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: FlyumSword(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.FlyumSword
+endProcessing "lv\arivaariva\jetpacks\items\FlyumSword.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumAxe.java" md5: bc52ed7d5341487d2157d2355224d743
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\MasteriumAxe.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.MasteriumAxe
+   @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|219|231|MasteriumAxe|class|lv.arivaariva.jetpacks.items.MasteriumAxe
+   @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|240|247|ItemAxe|class|net.minecraft.item.ItemAxe
+   Method Start: MasteriumAxe(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|288|296|material|param|lv.arivaariva.jetpacks.items.MasteriumAxe|MasteriumAxe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|262|274|MasteriumAxe|method|lv.arivaariva.jetpacks.items.MasteriumAxe|MasteriumAxe|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|275|287|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|314|322|material|param|lv.arivaariva.jetpacks.items.MasteriumAxe|MasteriumAxe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|333|351|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|352|373|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|374|386|masteriumaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumaxe
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|387|405|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|418|433|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|434|455|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|456|468|masteriumaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumaxe
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|469|484|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|497|511|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|512|520|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\MasteriumAxe.java|521|533|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: MasteriumAxe(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.MasteriumAxe
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumAxe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumHoe.java" md5: 3b13a04c80dfa54b82d83f028847fc48
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\MasteriumHoe.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.MasteriumHoe
+   @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|219|231|MasteriumHoe|class|lv.arivaariva.jetpacks.items.MasteriumHoe
+   @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|240|247|ItemHoe|class|net.minecraft.item.ItemHoe
+   Method Start: MasteriumHoe(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|288|296|material|param|lv.arivaariva.jetpacks.items.MasteriumHoe|MasteriumHoe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|262|274|MasteriumHoe|method|lv.arivaariva.jetpacks.items.MasteriumHoe|MasteriumHoe|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|275|287|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|314|322|material|param|lv.arivaariva.jetpacks.items.MasteriumHoe|MasteriumHoe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|333|351|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|352|373|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|374|386|masteriumhoe|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumhoe
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|387|405|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|418|433|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|434|455|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|456|468|masteriumhoe|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumhoe
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|469|484|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|497|511|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|512|520|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\MasteriumHoe.java|521|533|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: MasteriumHoe(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.MasteriumHoe
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumHoe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumIngot.java" md5: 62aadcaa83d6e17b147bef4aa665dc16
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\MasteriumIngot.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.MasteriumIngot
+   @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|134|148|MasteriumIngot|class|lv.arivaariva.jetpacks.items.MasteriumIngot
+   @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|157|180|net.minecraft.item.Item|class|net.minecraft.item.Item
+   Method Start: MasteriumIngot()V
+      @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|195|209|MasteriumIngot|method|lv.arivaariva.jetpacks.items.MasteriumIngot|MasteriumIngot|()V
+      @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|226|244|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|245|266|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|267|281|masteriumingot|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumingot
+      @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|282|300|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|313|328|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|329|350|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|351|365|masteriumingot|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumingot
+      @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|366|381|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|394|408|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|409|417|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\MasteriumIngot.java|418|430|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: MasteriumIngot()V
+Class End  : lv.arivaariva.jetpacks.items.MasteriumIngot
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumIngot.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumNugget.java" md5: 75f166d5d689236a2ffdd9f6ab1d4a21
+@|lv\arivaariva\jetpacks\items\MasteriumNugget.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.MasteriumNugget
+   @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|134|149|MasteriumNugget|class|lv.arivaariva.jetpacks.items.MasteriumNugget
+   @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|158|181|net.minecraft.item.Item|class|net.minecraft.item.Item
+   Method Start: MasteriumNugget()V
+      @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|196|211|MasteriumNugget|method|lv.arivaariva.jetpacks.items.MasteriumNugget|MasteriumNugget|()V
+      @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|228|246|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|247|268|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|269|284|masteriumNugget|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumNugget
+      @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|285|303|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|316|331|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|332|353|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|354|369|masteriumNugget|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumNugget
+      @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|370|385|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|398|412|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|413|421|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\MasteriumNugget.java|422|434|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: MasteriumNugget()V
+Class End  : lv.arivaariva.jetpacks.items.MasteriumNugget
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumNugget.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumPickaxe.java" md5: f6a9f113c2fe897c26063180373e3ab5
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.MasteriumPickaxe
+   @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|223|239|MasteriumPickaxe|class|lv.arivaariva.jetpacks.items.MasteriumPickaxe
+   @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|248|259|ItemPickaxe|class|net.minecraft.item.ItemPickaxe
+   Method Start: MasteriumPickaxe(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|304|312|material|param|lv.arivaariva.jetpacks.items.MasteriumPickaxe|MasteriumPickaxe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|274|290|MasteriumPickaxe|method|lv.arivaariva.jetpacks.items.MasteriumPickaxe|MasteriumPickaxe|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|291|303|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|330|338|material|param|lv.arivaariva.jetpacks.items.MasteriumPickaxe|MasteriumPickaxe|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|349|367|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|368|389|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|390|406|masteriumpickaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumpickaxe
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|407|425|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|438|453|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|454|475|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|476|492|masteriumpickaxe|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumpickaxe
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|493|508|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|521|535|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|536|544|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\MasteriumPickaxe.java|545|557|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: MasteriumPickaxe(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.MasteriumPickaxe
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumPickaxe.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumShovel.java" md5: 2c179896a6ef4c4112fe11f8a150a2c8
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\MasteriumShovel.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.MasteriumShovel
+   @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|221|236|MasteriumShovel|class|lv.arivaariva.jetpacks.items.MasteriumShovel
+   @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|245|254|ItemSpade|class|net.minecraft.item.ItemSpade
+   Method Start: MasteriumShovel(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|298|306|material|param|lv.arivaariva.jetpacks.items.MasteriumShovel|MasteriumShovel|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|269|284|MasteriumShovel|method|lv.arivaariva.jetpacks.items.MasteriumShovel|MasteriumShovel|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|285|297|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|324|332|material|param|lv.arivaariva.jetpacks.items.MasteriumShovel|MasteriumShovel|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|343|361|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|362|383|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|384|399|masteriumshovel|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumshovel
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|400|418|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|431|446|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|447|468|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|469|484|masteriumshovel|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumshovel
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|485|500|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|513|527|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|528|536|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\MasteriumShovel.java|537|549|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: MasteriumShovel(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.MasteriumShovel
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumShovel.java"
+
+startProcessing "lv\arivaariva\jetpacks\items\MasteriumSword.java" md5: 58b2e0f0b2a264e3be00b71d64868d98
+Cache Hit!
+@|lv\arivaariva\jetpacks\items\MasteriumSword.java|8|36|lv.arivaariva.jetpacks.items|package|lv.arivaariva.jetpacks.items|(file)
+Class Start: lv.arivaariva.jetpacks.items.MasteriumSword
+   @|lv\arivaariva\jetpacks\items\MasteriumSword.java|171|185|MasteriumSword|class|lv.arivaariva.jetpacks.items.MasteriumSword
+   @|lv\arivaariva\jetpacks\items\MasteriumSword.java|194|203|ItemSword|class|net.minecraft.item.ItemSword
+   Method Start: MasteriumSword(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|246|254|material|param|lv.arivaariva.jetpacks.items.MasteriumSword|MasteriumSword|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|218|232|MasteriumSword|method|lv.arivaariva.jetpacks.items.MasteriumSword|MasteriumSword|(Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|233|245|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|276|284|material|param|lv.arivaariva.jetpacks.items.MasteriumSword|MasteriumSword|(Lnet/minecraft/item/Item$ToolMaterial;)V|material|0
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|295|313|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|314|335|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|336|350|masteriumsword|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumsword
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|351|369|getUnlocalizedName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getUnlocalizedName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|382|397|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|398|419|Reference.CustomItems|class|lv.arivaariva.jetpacks.Reference.CustomItems
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|420|434|masteriumsword|field|lv.arivaariva.jetpacks.Reference.CustomItems|masteriumsword
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|435|450|getRegistryName|method|lv.arivaariva.jetpacks.Reference.CustomItems|getRegistryName|()Ljava/lang/String;
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|463|477|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|478|486|Jetpacks|class|lv.arivaariva.jetpacks.Jetpacks
+      @|lv\arivaariva\jetpacks\items\MasteriumSword.java|487|499|CREATIVE_TAB|field|lv.arivaariva.jetpacks.Jetpacks|CREATIVE_TAB
+   Method End: MasteriumSword(Lnet/minecraft/item/Item$ToolMaterial;)V
+Class End  : lv.arivaariva.jetpacks.items.MasteriumSword
+endProcessing "lv\arivaariva\jetpacks\items\MasteriumSword.java"
+
+startProcessing "lv\arivaariva\jetpacks\proxy\ClientProxy.java" md5: 7064b7ed387999999a57ab20309d3a08
+Cache Hit!
+@|lv\arivaariva\jetpacks\proxy\ClientProxy.java|8|36|lv.arivaariva.jetpacks.proxy|package|lv.arivaariva.jetpacks.proxy|(file)
+Class Start: lv.arivaariva.jetpacks.proxy.ClientProxy
+   @|lv\arivaariva\jetpacks\proxy\ClientProxy.java|150|161|ClientProxy|class|lv.arivaariva.jetpacks.proxy.ClientProxy
+   @|lv\arivaariva\jetpacks\proxy\ClientProxy.java|173|184|CommonProxy|class|lv.arivaariva.jetpacks.proxy.CommonProxy
+   Method Start: init()V
+      @|lv\arivaariva\jetpacks\proxy\ClientProxy.java|190|198|Override|class|java.lang.Override
+      @|lv\arivaariva\jetpacks\proxy\ClientProxy.java|212|216|init|method|lv.arivaariva.jetpacks.proxy.CommonProxy|init|()V
+      @|lv\arivaariva\jetpacks\proxy\ClientProxy.java|223|234|CustomItems|class|lv.arivaariva.jetpacks.init.CustomItems
+      @|lv\arivaariva\jetpacks\proxy\ClientProxy.java|235|250|registerRenders|method|lv.arivaariva.jetpacks.init.CustomItems|registerRenders|()V
+      @|lv\arivaariva\jetpacks\proxy\ClientProxy.java|256|268|CustomBlocks|class|lv.arivaariva.jetpacks.init.CustomBlocks
+      @|lv\arivaariva\jetpacks\proxy\ClientProxy.java|269|284|registerRenders|method|lv.arivaariva.jetpacks.init.CustomBlocks|registerRenders|()V
+   Method End: init()V
+Class End  : lv.arivaariva.jetpacks.proxy.ClientProxy
+endProcessing "lv\arivaariva\jetpacks\proxy\ClientProxy.java"
+
+startProcessing "lv\arivaariva\jetpacks\proxy\CommonProxy.java" md5: 905bb55c796e19f710030fa432bb3084
+Cache Hit!
+@|lv\arivaariva\jetpacks\proxy\CommonProxy.java|8|36|lv.arivaariva.jetpacks.proxy|package|lv.arivaariva.jetpacks.proxy|(file)
+Class Start: lv.arivaariva.jetpacks.proxy.CommonProxy
+   @|lv\arivaariva\jetpacks\proxy\CommonProxy.java|56|67|CommonProxy|class|lv.arivaariva.jetpacks.proxy.CommonProxy
+   Method Start: init()V
+      @|lv\arivaariva\jetpacks\proxy\CommonProxy.java|83|87|init|method|lv.arivaariva.jetpacks.proxy.CommonProxy|init|()V
+   Method End: init()V
+Class End  : lv.arivaariva.jetpacks.proxy.CommonProxy
+endProcessing "lv\arivaariva\jetpacks\proxy\CommonProxy.java"
+
+startProcessing "lv\arivaariva\jetpacks\proxy\ServerProxy.java" md5: e22a44720afbfae9b5e935a383e5b0f9
+Cache Hit!
+@|lv\arivaariva\jetpacks\proxy\ServerProxy.java|8|36|lv.arivaariva.jetpacks.proxy|package|lv.arivaariva.jetpacks.proxy|(file)
+Class Start: lv.arivaariva.jetpacks.proxy.ServerProxy
+   @|lv\arivaariva\jetpacks\proxy\ServerProxy.java|52|63|ServerProxy|class|lv.arivaariva.jetpacks.proxy.ServerProxy
+   @|lv\arivaariva\jetpacks\proxy\ServerProxy.java|75|86|CommonProxy|class|lv.arivaariva.jetpacks.proxy.CommonProxy
+   Method Start: init()V
+      @|lv\arivaariva\jetpacks\proxy\ServerProxy.java|92|100|Override|class|java.lang.Override
+      @|lv\arivaariva\jetpacks\proxy\ServerProxy.java|114|118|init|method|lv.arivaariva.jetpacks.proxy.CommonProxy|init|()V
+   Method End: init()V
+Class End  : lv.arivaariva.jetpacks.proxy.ServerProxy
+endProcessing "lv\arivaariva\jetpacks\proxy\ServerProxy.java"
+

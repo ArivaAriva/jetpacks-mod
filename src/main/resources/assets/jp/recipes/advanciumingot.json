@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jp:blockadvancium"
+    }
+  ],
+  "result": {
+    "item": "jp:iadvanciumingot",
+    "count": 9,
+    "data": 0
+  }
+}

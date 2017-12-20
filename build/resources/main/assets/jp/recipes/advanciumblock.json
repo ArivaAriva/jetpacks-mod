@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "jp:iadvanciumingot"
+    }
+  },
+  "result": {
+    "item": "jp:blockadvancium",
+    "data": 0
+  }
+}

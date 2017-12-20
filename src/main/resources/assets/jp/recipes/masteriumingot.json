@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jp:blockmasterium"
+    }
+  ],
+  "result": {
+    "item": "jp:imasteriumingot",
+    "count": 9,
+    "data": 0
+  }
+}
