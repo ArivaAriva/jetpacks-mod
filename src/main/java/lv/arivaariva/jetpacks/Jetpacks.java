@@ -80,14 +80,6 @@ public class Jetpacks {
     {
         System.out.println("Init");
         proxy.init();
-        //addRecipe("flyumblock");
-        /*addRecipe("flyumpickaxe");
-        addRecipe("flyumaxe");
-        addRecipe("flyumaxealt");
-        addRecipe("flyumshovel");
-        addRecipe("flyumhoe");
-        addRecipe("flyumhoealt");
-        addRecipe("flyumingotrec");*/
     }
 
     @EventHandler
